@@ -14,7 +14,7 @@ text meaning that this software is probably not secure enough for
 production applications. It is a useful occasional debugging tool
 though!
 
-No it isn't RFC854 compliant.
+No it isn't RFC854 compliant. (will soon be)
 
 Rob Blackwell
 Todd MacDonald
